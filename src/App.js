@@ -2,8 +2,8 @@
 
 
 import React, { Component } from 'react';
-import "./Main.scss";
-import './App.scss';
+import "./Main.sass";
+import './App.sass';
 import Main from './Main.js';
 import Navbar from './components/Navbar.jsx'
 import About from './components/About.jsx'
@@ -40,7 +40,7 @@ class App extends Component {
      <h1>Check out the
        <a
          target="_blank"
-         rel="noreferrer noopener" href="https://github.com/xxsherryyy/portfolio-react"
+         rel="noreferrer noopener" href="https://github.com/xxsherryyy/sherry-x-yang"
        > source code
        </a>!
      </h1>

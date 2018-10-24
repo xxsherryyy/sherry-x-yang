@@ -7,6 +7,7 @@ import {MuiThemeProvider, createMuiTheme} from '@material-ui/core/styles';
 import { withStyles } from '@material-ui/core/styles';
 import PropTypes from 'prop-types'; 
 
+
 const theme = createMuiTheme({
 	palette: {
 		primary: {
