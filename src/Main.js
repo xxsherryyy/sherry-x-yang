@@ -3,13 +3,13 @@ import './Main.scss';
 import './App.scss';
 import { withStyles } from '@material-ui/core/styles';
 // import ReactDOM from 'react-dom';
-import Navbar from './components/Navbar.jsx'
+
 import About from './components/About.jsx'
-import App from './App.js'
+// import App from './App.js'
 import Portfolio from './components/Portfolio.jsx';
-import Contact from './components/Contact.jsx'
+// import Contact from './components/Contact.jsx'
 import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
-import { height } from 'window-size';
+
 
 const theme = createMuiTheme({
   palette: {

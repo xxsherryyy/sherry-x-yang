@@ -7,7 +7,7 @@ import './App.scss';
 import Main from './Main.js';
 import Navbar from './components/Navbar.jsx'
 import About from './components/About.jsx'
-import {  HashRouter, BrowserRouter, Route, Switch } from 'react-router-dom';
+import {BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import Portfolio from './components/Portfolio.jsx';
 import Contact from './components/Contact.jsx'
