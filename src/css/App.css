@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  align-items: center; }
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px; }
+
+.App-header {
+  opacity: 1;
+  height: 150px;
+  padding: 20px;
+  color: white; }
+
+.App-title {
+  font-size: 1.5em; }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+#portfolio {
+  align-items: center;
+  text-align: center; }
+  #portfolio .portfolioContent {
+    margin: 2rem;
+    align-items: center;
+    text-align: center; }
+
+#about.section {
+  margin: 5px; }
+  #about.section .about-info {
+    margin: 20px; }
+
+.menu-btn {
+  position: absolute;
+  z-index: 3;
+  right: 35px;
+  top: 35px;
+  cursor: pointer; }
+  .menu-btn .btn-line {
+    width: 28px;
+    height: 3px;
+    margin: 0 0 5px 0;
+    background: set-text-color(#17BDA4); }
+
+.footer {
+  background: #E46B5E; }
+
+/*# sourceMappingURL=App.css.map */
