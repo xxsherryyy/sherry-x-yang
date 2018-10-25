@@ -2,8 +2,8 @@
 
 
 import React, { Component } from 'react';
-import "./Main.sass";
-import './App.sass';
+import "./sass/Main.scss";
+import './sass/App.scss';
 import Main from './Main.js';
 import Navbar from './components/Navbar.jsx'
 import About from './components/About.jsx'

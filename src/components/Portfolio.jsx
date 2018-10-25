@@ -9,9 +9,6 @@ import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
 
-import PropTypes from 'prop-types';
-
-
 const theme = createMuiTheme({
   palette: {
     primary: {

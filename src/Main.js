@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './Main.sass';
-import './App.sass';
+import './sass/Main.scss';
+import './sass/App.scss';
 import { withStyles } from '@material-ui/core/styles';
 // import ReactDOM from 'react-dom';
 
