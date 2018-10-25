@@ -5,16 +5,16 @@ module.exports = (grunt) => {
                 options: {
                 },
                 files: {
-                    'src/css/App.css': 'src/sass/App.scss',
-                    'src/css/Main.css': 'src/sass/Main.scss'
+                    'css/App.css': 'sass/App.scss',
+                    'css/Main.css': 'sass/Main.scss'
                 }
             },
             production: {
                 options: {
                 },
                 files: {
-                    'src/css/App.css': 'src/sass/App.scss',
-                    'src/css/Main.css': 'src/sass/Main.scss'
+                    'css/App.css': 'sass/App.scss',
+                    'css/Main.css': 'ass/Main.scss'
                 }
             }
         },
